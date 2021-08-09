@@ -23,25 +23,26 @@ var data = {
     // Foreground color of the clock
     clock_fgcolor: "#79acf3",
     // Font size of the clock
-    clock_fontsize: "20px",
+    clock_fontsize: "40px",
 
     // -------------------------------------------------
     // Change image proprieties from here
 
     // Border radius: set it to 50% to create a circle
-    image_radius: "20px",
+    image_radius: "50%",
     // Border for the image
     image_border: "0px",
     // Color of the border
     image_bordercolor: "#79acf3",
     // Filters for the image.
-    image_filter: "grayscale(56%) brightness(60%)",
+    image_filter: "grayscale(5%) brightness(95%)",
     // Width/height for the image
-    image_width: "300px",
+    image_width: "400px",
     // Image source: you can use local files, or a link
     // image_source: "/img/kanji.jpg"
-    image_source: "https://raw.githubusercontent.com/Alededorigo/Kanji/main/img/kanji.jpg",
-    // image_source: "/img/nord_mountain.jpg"
+    // image_source: "https://raw.githubusercontent.com/Alededorigo/Kanji/main/img/kanji.jpg",
+    // image_source: "https://raw.githubusercontent.com/mitchellshahen/startpage-kanji/main/img/nord_mountain.jpg?token=ANHRLCFKWHiZXUGWOMFGXPPTBCGZT4",
+    image_source: "/img/nord_mountain.jpg",
 
     // -------------------------------------------------
     // Enable/disable site icons
@@ -55,7 +56,7 @@ var data = {
     // -------------------------------------------------
     // Change search bar proprietis from here
     // Search bar placeholder
-    search_placeholder: "Hey guess what?",
+    search_placeholder: "Search with DuckDuckGo...",
     // Search engine
     // Possible choices: (case sensitive)
     // google
