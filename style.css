@@ -12,9 +12,9 @@
 }
 
 :root {
-  --dark-bg: #111217;
-  --white-bg: #eeeeee;
-  --white-alt: #c4c4c4;
+  --dark-bg: #2e3440;
+  --white-bg: #d8dee9;
+  --white-alt: #d8dee9;
 }
 
 ::selection {
@@ -44,7 +44,7 @@ body.light {
 }
 
 #greetings {
-  font-family: "kanji", monospace;
+  font-family: "Source Code Pro", monospace;
 }
 
 .input_box {
@@ -52,7 +52,7 @@ body.light {
   outline: none;
   background: transparent;
   padding: 13px;
-  color: var(--white-bg);
+  color: #d8dee9;
   font-size: 17px;
   transition: 0.4px all;
   border-radius: 5px 5px 5px 5px;
@@ -64,7 +64,7 @@ body.light {
 .input_box:hover,
 .input_box:focus,
 .input_box:active {
-  background: #2f313b;
+  background: #4c566a;
 }
 
 .left {
@@ -121,7 +121,7 @@ body.light {
 
 .column a {
   text-decoration: none;
-  color: #44475a;
+  color: #4c566a;
   transition: 0.3s;
   letter-spacing: 0.6px;
   padding: 5px;
@@ -129,8 +129,8 @@ body.light {
 }
 
 .column a.hover:hover {
-  color: #919191;
-  background: #2f313b;
+  color: #d8dee9;
+  background: #4c566a;
   transform: translateY(-3px);
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
 }
@@ -222,7 +222,7 @@ body.light .column p {
 }
 
 body.light .column a.hover:hover {
-  color: #44475a;
+  color: #5e81ac;
   background: var(--white-alt);
 }
 
@@ -240,7 +240,6 @@ body.light ::selection {
   top: 30px;
   left: 30px;
   transition: 0.4s ease-out;
-  font-style: italic;
+  font-style: bold;
   font-weight: 500;
-  text-decoration: underline;
 }

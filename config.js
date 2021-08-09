@@ -5,10 +5,10 @@ var data = {
     // -------------------------------------------------
     // Greetings config. Change greetings from here
 
-    g1: "おやすみなさい", // From 23:00 to 5:00
-    g2: "おはようございます", // Until 12:00
-    g3: "こんにちは", // Until 17:00
-    g4: "おやすみなさい", // Rest of the time
+    g1: "Go to bed, dummy!", // From 23:00 to 5:00
+    g2: "Mornin' bud!", // Until 12:00
+    g3: "The afternoon already?", // Until 17:00
+    g4: "Lovely evenin' for a beer, eh?", // Rest of the time
 
     // Font size of the greeting
     greeting_fontsize: "40px",
@@ -39,8 +39,9 @@ var data = {
     // Width/height for the image
     image_width: "300px",
     // Image source: you can use local files, or a link
-    // Ex.: image_source: "/img/kanji.jpg"
+    // image_source: "/img/kanji.jpg"
     image_source: "https://raw.githubusercontent.com/Alededorigo/Kanji/main/img/kanji.jpg",
+    // image_source: "/img/nord_mountain.jpg"
 
     // -------------------------------------------------
     // Enable/disable site icons
@@ -49,12 +50,12 @@ var data = {
 
     // -------------------------------------------------
     // Page title
-    title: "ここから始める",
+    title: "Startpage",
 
     // -------------------------------------------------
     // Change search bar proprietis from here
     // Search bar placeholder
-    search_placeholder: "Search here",
+    search_placeholder: "Hey guess what?",
     // Search engine
     // Possible choices: (case sensitive)
     // google
@@ -63,6 +64,6 @@ var data = {
     // startpage
     // ecosia
     // youtube
-    search_engine: "google",
+    search_engine: "duckduckgo",
 
 }
