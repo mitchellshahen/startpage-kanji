@@ -2,7 +2,7 @@
   <img src="favicon.ico">
 </p>
 
-<h1 align="center"><strong>startpage</strong>
+<h1 align="center"><strong>My Version of Alededorigo's startpage</strong>
 
 <p align="center">
   <a href="https://github.com/Alededorigo/startpage/blob/main/LICENSE">
@@ -20,6 +20,8 @@
 <br />
 
 # **A startpage for the browser**
+
+## Includes minor aesthetic changes, but all credit to [Alededorigo](https://github.com/alededorigo). Check out his great stuff!
 
 ## Release v3.1 <img alt="" align="right" src="https://img.shields.io/github/repo-size/alededorigo/kanji?color=%2358d0f4&style=flat"/>
 

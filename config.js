@@ -39,10 +39,10 @@ var data = {
     // Width/height for the image
     image_width: "400px",
     // Image source: you can use local files, or a link
-    // image_source: "/img/kanji.jpg"
-    // image_source: "https://raw.githubusercontent.com/Alededorigo/Kanji/main/img/kanji.jpg",
+    // image_source: "/img/kanji.jpg",
+    image_source: "https://raw.githubusercontent.com/Alededorigo/Kanji/main/img/kanji.jpg",
     // image_source: "https://raw.githubusercontent.com/mitchellshahen/startpage-kanji/main/img/nord_mountain.jpg?token=ANHRLCFKWHiZXUGWOMFGXPPTBCGZT4",
-    image_source: "/img/nord_mountain.jpg",
+    // image_source: "/img/nord_mountain.jpg",
 
     // -------------------------------------------------
     // Enable/disable site icons
